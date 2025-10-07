@@ -4,3 +4,4 @@ Recipe Project for The Odin Project. Learning HTML basics. This project was init
 
 All recipes were taken from allrecipes.com, credit goes to respective authors.
 Copyright: © 2023, Cheryl Norris - Cookies Image
+All images taken from google creative common licenses - Credit goes to respective artists.
